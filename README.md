@@ -22,9 +22,9 @@ I would summarize myself as a person curious about technologies, adventures and 
 I love investing time in music 🎵, from playing the guitar 🎸 to singing 🎤 and exploring the world of keys 🎹 and strings 🪕.
 
 ### Where Do I sing?
-[My Youtube Channel] (https://www.youtube.com/channel/UCLnThFMpe-cgisPVGL3zQ1A/videos?view_as=subscriber)
+[My Youtube Channel](https://www.youtube.com/channel/UCLnThFMpe-cgisPVGL3zQ1A/videos?view_as=subscriber)
 
 
 ### Where do I practice coding?
-[HackerRank Profile] (https://www.hackerrank.com/p6401?hr_r=1)
+[HackerRank Profile](https://www.hackerrank.com/p6401?hr_r=1)
 
