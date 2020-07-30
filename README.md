@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### About Me 
 I would summarize myself as a person curious about technologies, adventures and exploring people. My objective in life is to keep learning from my mistakes and refine myself as much as I can. I believe in making life fun and exciting with code and visualization. Entering the space of Augmented and Virtual Reality with Unity and love exploring more in the Virtual Space -Cloud.
 
+![cat_code](https://user-images.githubusercontent.com/45872617/88959217-a3d3f000-d26f-11ea-8d6e-047eb9d82c6b.gif)
 ### Technology domain I work on...
 DevOps   ~     Machine Learning    ~   Software Development  ~  Site Relaibility Engineering
 
