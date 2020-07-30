@@ -21,7 +21,7 @@ I would summarize myself as a person curious about technologies, adventures and 
 
 ![cat_code](https://user-images.githubusercontent.com/45872617/88959217-a3d3f000-d26f-11ea-8d6e-047eb9d82c6b.gif)
 ### Technology domain I work on...
-DevOps   ~     Machine Learning    ~   Software Development  ~  Site Relaibility Engineering
+[DevOps](https://en.wikipedia.org/wiki/DevOps)~[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) ~ [Software Development](https://en.wikipedia.org/wiki/Software_development#:~:text=Software%20development%20is%20a%20process,a%20planned%20and%20structured%20process.)  ~ [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_Reliability_Engineering)
 
 
 
