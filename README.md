@@ -1,6 +1,6 @@
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif)
 
-### Hi there 👋. I am Pratiksha Patnaik
+###  👋 I am Pratiksha Patnaik, currently a DevOps Intern at Red Hat
 
 <!--
 **Pratster95/Pratster95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 -->
 ### About Me 
 I would summarize myself as a person curious about technologies, adventures and exploring people. My objective in life is to keep learning from my mistakes and refine myself as much as I can. I believe in making life fun and exciting with code and visualization. Entering the space of Augmented and Virtual Reality with Unity and love exploring more in the Virtual Space -Cloud.
+
+### Technology domain I work on...
+DevOps   ~     Machine Learning    ~   Software Development  ~  Site Relaibility Engineering
+
+
 
 ### What do I do apart from technology
 
