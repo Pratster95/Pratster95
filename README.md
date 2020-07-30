@@ -1,4 +1,4 @@
-![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif)
+![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) ###  👋 I am Pratiksha Patnaik, currently a DevOps Intern at Red Hat
 
 ###  👋 I am Pratiksha Patnaik, currently a DevOps Intern at Red Hat
 
