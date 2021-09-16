@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me 
-I would summarize myself as a person curious about technologies, adventures and exploring people. My objective in life is to keep learning from my mistakes and refine myself as much as I can. I believe in making life fun and exciting with code and visualization.  I love exploring more in the Virtual Space - Cloud and also learning mor about Systems and Networks.
+I would summarize myself as a person curious about technologies, adventures and exploring people. My objective in life is to keep learning from my mistakes and refine myself as much as I can. I believe in making life fun and exciting with code and visualization.  I love exploring more in the Virtual Space - Cloud and also learning more about Systems and Networks.
 
 ![cat_code](https://user-images.githubusercontent.com/45872617/88959217-a3d3f000-d26f-11ea-8d6e-047eb9d82c6b.gif)
 ### Technology domain I work on...
