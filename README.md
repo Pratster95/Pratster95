@@ -33,6 +33,4 @@ I love investing time in music 🎵, from playing the guitar 🎸 to singing �
 [My Youtube Channel](https://www.youtube.com/channel/UCLnThFMpe-cgisPVGL3zQ1A/videos?view_as=subscriber)
 
 
-### Where do I practice coding?
-[HackerRank Profile](https://www.hackerrank.com/p6401?hr_r=1)
 
