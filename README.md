@@ -1,6 +1,6 @@
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
 
-###  👋 I am Pratiksha Patnaik, currently a Software Engineer at Red Hat
+###  👋 I am Pratiksha Patnaik, currently a Cloud Infrastructure Engineer working at Google
 
 <!--
 **Pratster95/Pratster95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
